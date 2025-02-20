@@ -1,0 +1,34 @@
+from transformers import pipeline
+
+# Initialize the summarizer
+summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
+
+# Read the extracted text
+with open('extracted_text.txt', 'r', encoding='utf-8') as file:
+    large_text = file.read()
+
+# Split the text into smaller chunks (with overlap for context)
+def chunk_text(text, chunk_size=350, overlap=50):
+    words = text.split()
+    for i in range(0, len(words), chunk_size - overlap):
+        yield " ".join(words[i:i + chunk_size])
+
+# Summarize each chunk and concatenate results
+summaries = []
+for chunk in chunk_text(large_text):
+    try:
+        summary = summarizer(chunk, max_length=300, min_length=100, do_sample=False)[0]["summary_text"]
+        summaries.append(summary)
+    except Exception as e:
+        print(f"Error processing chunk: {e}")
+
+# Join the individual summaries into one
+combined_summary = " ".join(summaries)
+
+# Optionally, summarize the final summary if it's too long
+if len(combined_summary.split()) > 500:  # If the summary is still long, summarize it again.
+    final_summary = summarizer(combined_summary, max_length=150, min_length=50, do_sample=False)[0]["summary_text"]
+else:
+    final_summary = combined_summary
+
+print(final_summary)

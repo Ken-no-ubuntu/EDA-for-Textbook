@@ -1,0 +1,471 @@
+6
+
+DOMINANT FIRM UNILATERAL
+CONDUCT: MONOPOLIZATION AND
+ABUSE OF DOMINANCE
+
+‘The European Commission concluded in 2017 that Google had ining
+Agreement on the European Economic Area (“EEA Agreement") when
+Deeg its own centers service more favorably than
+‘competing comparison-shopping services on its general search resul
+It found that Google held a dominant pa wd wae oe a
+sett 4 firm from abusing its dominant position, and chat it abused its
+lontinant position in thirteen separate national markets by directing online
+traffic toward its own comparizon-shopping service pages | from
+competing comparison-shopping services.' It did not engage in extensive ec=
+onomic analysis of the effects of the conduct on consumers.
+
+In contrast, the pale Sate ‘Court of Appeals for the Tenth Circuit did
+‘engage in economic analysis when it concluded that Microsoft, the leadi
+provider of intel-compatibe inclines poten iidnetons
+gage in anti-competitive conduct under section 2 of the Sherman Antitrust
+Act when it withdrew access to its namespace extensions from independent
+software vendors after first offering to share access.2 The court based its con=
+clusion in lange part ona finding that no evidence had been presented to prove
+fed i willing to sacrifice short-term profits or to irrationally
+
+In both cases the issue is whether a single firm acting unilaterally violated
+‘he relevant competition law provision. The EU decision rested on the con—
+cept of abuse of power. The EU Commision said that Google used its power
+to distort and interfere with competition to its own benefit. In the US case,
+the court focused on the economic rationality of Miscrosofi's conduct pe)
+concluded that the conduct was not irrational and therefore not a violation of |
+‘the US law condemning “monopolizatio.” The differing perspectives play
+important roles in the global competition law arena. Why are there such
+
+* European Commission Decision (June 27, 2017) CASE AT. 3940 Google Se
+(Shopping) aweenos pocapus ” on
+Novell, Inc. v. Microsoft Corp., 731 F.3d 1064 (toh Cir, 2013)
+
+Camano ern ie Mody P20, 0m
+Ok 10.1093/esn/9780198727477.001,0001 VPs 20 COW Co
+
+
+na
+
+66 
+
+major differences between competition laws? History? Polis? Ideology?
+Characteristic of the national economy, particularly in relation to global
+markets? All ofthe above? Single-firm conducts generally considered to be
+‘especially dificult to analyze in competition law, We wll see why.
+
+‘The above examples feature the conduct of a single firm acting
+unilaterally —that is, by itself Ifa firm has sufficient influence or
+“power” on a market, it can exclude rivals or limit their capacity
+co compete and thereby significantly harm competition. Here the
+harm does not result from a specific agreement (as in Ch. 5) but
+from the conduct of a single firm. Most competition law statutes
+tanger this type of conduct, but there ate important variations in
+actual treatment, and virtually all systems struggle to respond to
+it effectively. :
+“This component of competition law is often controversial
+and politically sensitive. It typically involves large firms, many
+of which are also politically influential. Their power—whether
+imagined or not—often elicits fear, resentment, and envy, and this
+fuels efforts to use competition law to combat their threats. The
+area symbolizes and crystalizes the conflict between the public in-
+terest and private economic power, and it touches on major so-
+cial and political issues such as inequality, political freedom, and
+democracy. ;
+Globalization adds a farther dimension to the tension.
+Dominant firms are typically based in high income countries
+(often the US or Europe) but the harm is often related to firms and
+consumers in poorer and weaker countries. As financial resources
+have become increasingly concentrated and large firms have ex-
+panded their influence on geographical and digital markets, the
+governments in poorer countries have sought ways to limit the
+potential harms.
+
+A. POWER AS THE
+STARTING POINT
+
+Analysis of unilateral conduct starts from the premise that a dom-
+inant firm's influence on a market makes certain kinds of conduct
+
+ 67
+
+harmful even though the same conduct by a firm without such
+power may be harmless. For example, if a firm with a 1 percent
+arket share sells below its cost of production, the price reduc-
+tion is probably not a competition law issue, because it cannot
+influence the rest of the market. If, on the other hand, a firm with
+an 8s percent market share engages in the same conduct, the con-
+duct may drive competitors from the market or dissuade other
+firms from entering it.
+
+‘Where a firm has a large enough share of the market to in-
+fluence by itself how the market functions, it is considered
+“dominant” and/or said to have “monopoly power.” It is this
+power that allows it to act in ways that a firm that is subject to
+competition could not act (at least not without losing money).
+Crucially, chis power relates to a specific market, so competition
+laws must identify or “define” the relevant market in order to
+assess power.
+
+B. DEFINING THE MARKET
+
+Market definition i the basis for assessing a firm’s power. It is cen-
+
+tral to the analysis of unilateral conduct, so itis often a battle-
+ground in which plaintiff seek narrow definitions and defendants
+seek the opposite. The broader the market, the smaller the influ-
+ence of any firm’s individual market share. For example, a pro-
+ducer of men’s dress shoes may have a large enough market share
+to create dominance in the market for men’s dress shoes, but ifthe
+market is defined to include all shoes, its share of the market may
+be too stnall for it to have influence.
+
+The goal of market definition is to identify the firms that
+are competing with each other. A market may be defined by
+geography—for example, are two stores ten miles apart competing
+for the same customers? If yes, they are considered part of the
+same geographical market. It may also be defined in relation to
+a product or service—is product A competing with product B
+for the same customers? If so, they are part of the same product
+market, In some cases, the competitive relationship may be based
+on a product's use—are firms competing to be used fora particular
+purpose?
+
+
+TTT ——————————z,
+
+68 
+
+‘There is no fixed formula for defining a market, but the basic
+idea is that firms are competing where the market conduct of one
+influences what its competitors can do. Competition laws use
+‘various indicators to assess the scope of the relevant market. One
+asks what happens to the demand for product A if product B’s
+price changes. If B's price changes and there is no change in de-
+mand for product A, the two firms are probably not competing,
+because potential buyers of product B are not switching to
+product A. If, on the other hand, demand for product A increases
+when B’s price increases, this is evidence that consumers are
+responding to B's price increase by switching to product A, so
+they are in the same market. It isnot quite so simple, but for out
+purposes this suffices.
+
+‘Three basic methods are used to measure this sensitivity. One
+is to conduct market surveys which ask consumers, for example,
+“Would you switch from product A to product B if A were to in-
+crease in price by a given percentage.” A second is to analyze past
+pattems in similar situations to predict what is likely to happen in
+the future, The third is to use economic modeling to identify the
+probable incentives of consumers. Bach method involves a different
+set of costs, and this can influence the choices institutions make in
+using them, Each method is imperfect, so two or more may be used
+rogether in defining the market. Where the conduct has already
+‘occurred, this data is usually seen as reasonably dependable. Where
+the issue is the future effect of the conduct, as in merger analysis
+(Ch. 1) the data is considered less reliable, because markets evolve,
+‘often rapidly, and past responses become less useful in predicting
+farure ones.
+
+Market definition is notoriously frustrating. Many lawyers,
+administrators, and judges complain that it is uncertain and
+often seems arbitrary. The methods used are necessarily impte~
+cise, because many factors can influence consumer behavior and
+because it is dificult to predict how a particular decision-maker
+‘will define a market, Experienced practitioners often study the
+factors that a particular Competition Authority (CA) or court
+has considered important in the very recent past as a basis for
+predicting what it will do in the future.
+
+.
+
+ 69
+
+C. DOMINANCE AND
+MONOPOLY POWER
+
+Market share is generally used as the primary indicator of power.
+This generally refers to the percentage that a supplier’ sales have
+of the total sales on the market, Laws vary as to how much market
+share constitutes dominance in various contexts, Some regimes
+(eg, South Africa) specify the marker share percentage that is
+deemed to constitute dominance. Others assess the necessary
+market share more flexibly. Some may require 60 percent; others
+‘may find it at much lower levels. Much depends on the market's
+structure—that is, how the market shares of other participants are
+arrayed. For example, in a highly concentrated market in which
+each of three firms has a 30 percent market share, competition
+between the three may be intense—no firm has power over price.
+In contrast, a 30 percent marker share may be enough to control
+a marker in which no other firm has more than a 2 percent share.
+Some CAs provide guidelines that explain how they assess dom-
+‘nance. Some (e.g., India) require that the social obligations and
+costs of the firm be taken into account in assessing dominance.
+
+D. THE MOST
+COMMON CONDUCT
+STANDARD: EXCLUSION
+
+Possessing power is rarely seen as a competition law violation;
+some form of conduct is also required. As we know, a regime's
+goals shape its conduct standards. Where economic goals are
+central, the focus is usually on whether the conduct is “exclu-
+soma” Where political and social goals are considered, issues
+such as economic freedom and ef 1 equali
+ek Sop fects on income equality are
+Exclusionary conduct exists where a dominant firm excludes
+4 competitor from a market or impedes its capacity to compete
+ffectively—for example, by using its power to interfere with a
+rival's supply arrangements and thereby increasing its costs and
+
+
+a
+
+70 
+
+reducing its capacity to compete. Economic analysis is used to
+assess whether the conduct has led to an increase in price over
+‘a competitive price or had another similar impact on market
+competition. Types of exclusionary conduct include: predatory
+pricing, unilateral boycots, refusal to deal, bundling or tying of
+products, and others.
+
+‘The example of predatory pricing illustrates some of the is-
+sues involved. If a dominant firm reduces its prices below its
+cost of production in order to drive competitors out of the
+market, reduce their incentive or capacity to compete, or deter
+potential new entrants from entering the marker, it may reduce
+competition. This is predatory pricing and violates most com-
+petition laws. The underlying assumption is that a dominant
+firm has a strong enough market position to take short-term
+losses in order to achieve long-term anticompetitive gains, so
+this conduct may be rational from the firm’s standpoint and ef-
+fective as a competitive strategy. A weaker firm cannot effec~
+tively use the strategy, because if it reduces prices below cost,
+it will merely lose money! Systems differ in the measure of cost
+that is used to assess predation (some use average variable cost,
+cgi while others use average total cost) In some systems addi-
+tional concepts are used in the analysis. For example, in the US,
+the courts have generally accepted the idea that there must also
+be a rational expectation that the dominant firm can recoup its
+losses.
+
+‘A central issue in the treatment of unilateral conduct from
+any perspective is that potentially anticompetitive conduct is
+embedded in and interwoven with other elements of a firm's
+overall business plan. This makes it difficult to isolate che harmful
+conduct with confidence and, especially, to assess damage
+resulting from it, Moreover, conduct that is permitted under
+competition law when a firm does not have monopoly power can
+become a violation as the firm acquires a dominant position, s0
+
+there may be no clear beginning or ending of the harmful con-
+duct. Microsoft, for example, started by giving away its software.
+‘As long as they did not have monopoly power, this was not an
+antitrust problem, but it became a potential violation when the
+firm did acquire monopoly power.
+
+ n
+
+E. SAME CONDUCT
+DIFFERENT NAMES
+
+In the US and a few other countries, the term “monopoliza-
+tion” is used to describe harmful dominant firm conduct, while
+in Europe and clsewhere itis usually referred to as “abuse of a
+dominant position.” This sometimes leads to confusion and un-
+certainty, but just be aware that the two labels refer to the same
+category of conduct—anticompetitive conduct by a single frm.
+
+__ Monopolization: Section 2 of the US Sherman Act prohibits
+
+‘monopolization” (see Ch. 8). The basic idea is that a single
+firm with monopoly power “monopolizes” when it excludes or
+hinders competitors or potential competitors in order to acquire
+control of a market or increase its control of a market, but a cen-
+tury or so of judicial opinions interpreting the term has produced
+little clarity beyond that. This may be one reason why few other
+systems have chosen to use the concept,
+
+Abuse of a dominant position: Most jurisdictions use this
+standard ro assess unilateral conduct, Iti clearer than “monopoli-
+zation” in that it specifies (r) that it applies only to dominant firms
+and (2) only to conduct that constitutes “abuse of dominance.”
+Where it is used, courts and CAs have often been able to achieve
+at least a degree of clarity about how to use it.
+
+F, A LESS COMMON CONDUCT
+STANDARD: EXPLOITING
+CONSUMERS
+
+A. second type of abuse involves “exploiting” consume
+
+Although tanr jadsbeases idde 6 coe inealig the US,
+do not. This refers to conduct in which a firm's dominance allows
+it to extract more from consumers than competition would
+allow, typically by raising its price above a competitive price. Its
+dominance is here used to “exploit” consumers. The concept was
+first used in German competition law during the early twentieth
+
+century, but it is now widespread in Europe, Latin America, and
+elsewhere. ,
+
+
+ee
+
+p 
+
+‘The concept of exploitation abuse is often seen as politically
+attractive. The prospect of using competition law to reduce prices
+is often a source of political support, particularly where inflation
+is a major concern, It also directly addresses the threat of dom-
+inant firm power and sharply symbolizes the conflict between
+powerful firms and those subject to that power.
+
+‘Yet many competition officials encounter two main obstacles
+that make it less attractive to apply. First, it calls for proof that
+the price exceeds a competitive price, but determining what the
+competitive price is or would be is necessarily speculative and
+therefore difficult to defend. Second, there is no clear and con-
+sistent way of deciding how much higher a firm’s price must be
+in order to constitute abuse—2 percent? 5 percent? There have
+been many efforts to identify such principles, but few, if any,
+have been found widely convincing. As a result, this form of
+abuse is often criticized, especially in the US, as inherently dis-
+cretionary and another name for price regulation, Where CAs
+‘or courts apply rigorous legal standards, this form of abuse is
+seldom enforced, because it is so hard to prove, although CAs
+sometimes use it as a threat to induce large firms (e.g. service
+station owners in Europe) to reduce their prices. This has become
+a big issue inthe debates about competition law and Big Data (ee
+
+Ch. 12).
+
+G. PURSUING
+UNILATERAL CONDUCT
+
+‘The uncertainties in this area make decisions to pursue unilat-
+eral conduct risky and sometimes very expensive. As a result,
+public enforcement is typically limited, and private enforcement
+rare. Fines are usually the only tools available, but, assessing the
+amount of such fines tends to be highly uncertain. Criminal
+penalties are not used because holding a firm to an uncertain
+standard would be unfair (and in some systems unconstitutional).
+“Where a reviewing court requires adequate proof of harm before
+approving a CA's decision, the CA's efforts are particularly vel-
+netable to reversal. This risk is lower where review is less strict.
+Political issues must also be considered. The lack of a clear basis
+
+
+before a decision opens a CA to the criticism that it based its decision
+
+on factors such as corruption or political influence. The fact that
+such cases often involve large, well-known firms with political
+leverage increases this concern and invites interference from the
+executive branch,
+
+Deterrence potential is also difficult to estimate, Fitms that
+dominate a market are typically large, and many are also well
+known—for example, Google. A CA that takes action against
+such a firm can be assured of publicity. This may deter other firms
+from considering similar conduct, but it may also draw unwanted
+attention to the CA and subject it to attacks. The CA's calculation
+isa diffcule one.
+
+H. ECONOMIC DEPENDENCE AND.
+RELATIVE MARKET POWER
+
+Firms that do not dominate a market may nevertheless have
+power over their suppliers or distributors, ‘This has led some
+legislatures to create a distinct set of principles to deal with harm
+from the abuse of relative market power. Here harm results not
+from the to of eats ona market, but from its effects on
+one or more firms that are economically dependent on a pow-
+erful firm, The basic idea is that a fim may | be able to impose
+conditions on dependent firms that impede their apy to
+compete and thereby reduce competition. It is often also seen
+as simply unfair. Such legislation often gives dependent firms
+(usually suppliers of the dominant firm) a legal basis for claiming
+compensation for such harms from the firm that causes the harm,
+
+‘The idea was frst discussed in the context of German competi-
+tion tee development, and ithas spread to tome other countries,
+
+mainly in Latin Americ las sia * ¢
+f= ama pa “a and East Asia (e.g., Japan). It is not part
+
+> Tewasindaded Germany’
+
+cman Act Agana Rstrnt of Competition ch. 22
+Law of uly 27,957, asamended 1965, 197, 1976, 98,195,958 pear
+2017; Japan’s Act on Prohibition of Private Monopoliation and Maintenance of
+Fir Tad (only enaced a Act No.5 of Apr 41947),
+
+
+4 
+
+I. GLOBAL PATTERNS
+AND DYNAMICS
+
+Erom a global perspective, the treatment of dominant firm con-
+duct divides along several lines. One is more formal than actual—
+the line between states that use the concept of monopolization
+‘and those that use the abuse of dominance concepts. As noted
+above, this may make little difference in outcomes, but itis im-
+portant to recognize that the two concepts relate to the same type
+Of conduct and that the languages and logics used often differ
+significantly.
+
+"A second divide is far more significant. In systems that rely
+primarily or exclusively on economic analysis of effects, enforce-
+‘ment tends to be limited by the difficulty of proving the effects
+and by the uncertainty and cost of trying. Where political and
+social goals are also considered, however, enforcement sometimes
+proceeds without a firm or predictable legal base.
+
+Finally, the interests of states in this area of competition law
+diverge significantly. Capital-exporting countries that are home
+to powerful companies often pay limited attention to unilateral
+conduct. Capital-importing countries (many of which are less ec-
+‘onomieally robust) may have stronger incentives to pursue such.
+conduct. In many countries, political support for competition
+law focuses on the conduct of powerful firms, and often the dom-
+{nant firms are not domestic, but foreign.
+
+7
+MERGERS AND ACQUISITIONS
+
+In General Electric/Honeywell v, European Commission (2001), the
+Commision blocked a. proposed merger between two aa is us
+corporations — General Electric 2000 Merger Sub, Inc., a wholly owned
+subsidiary of General Electric (GE), and Honeywell, Inc., which would
+Ihave resulted in Honeywell becoming a wholly owned subsidiary of GE. Ie
+‘was probably the largest merger in history. The US competition authorities
+approved the merger. The European Commision blacked it. Afr extensive
+investigation of the local, regional, and global markets in which the parties
+‘operated, the Commission concluded that GE had a dominant position in
+several markets for various aircraft engines as well as having significant fix
+nancial influence in these and other markets. Honeywell, it found, had sig-
+nificant advantages in several product markets because it could provdea range
+of products that could not be matched by any other competitors. According to
+the Commision, the meger would “bring about anti-competitive ets a
+«result of horizontal overlaps and the vertical and conglomerate integration
+ofthe merging partes activities.” Specifically, the horizontal overlap would
+amount 04100 percent market share for the merged entity in some market
+sed wl eo an anal end omer advantage”
+over its competitors, it could then provide bundled and pac
+_producs that no other entity anywhere ese in the world could, eee
+‘Commission specifically noted how certain customers, thats, airlines, would
+have no choice bu to buy certain products fom the merged entity. As a result,
+they could expect lower profits, which in turn would rele in les investment
+inresearch and development. Ultimately, these competitors would experience
+market foreclosure and market exit, as they would be wnabl to compete with
+the resulting merged entity. The fcus was on harm to European markets and
+ther consumers}
+
+In May 2019, the Australian competition authority (Australian
+Competition and Consumer Commission —ACCC) pet & Pacific
+‘Nationa, an Australian frm active ia transporting gods in a spc re~
+_sion of Australia, had violated Australia's competition statue by acquiring a
+
++ Cimninon (Gut “COMP
+‘Commission Decision [200] OJ (C331) 24. 7
+
+Corstiavantnt Da ats Ova es
+‘DOK: 10, 10839/0s0'9780198727477,001,0001 ARR SOS
+
